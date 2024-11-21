@@ -1,0 +1,6 @@
+[submodule "gnose-web"]
+	path = gnose-web
+	url = git@github.com:guimox/gnose-web.git
+[submodule "gnose-api"]
+	path = gnose-api
+	url = git@github.com:guimox/gnose-api.git
